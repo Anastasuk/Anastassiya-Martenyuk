@@ -3,10 +3,10 @@
  <name>Martenyuk Anastassiya Pavlovna</name>
  <age> 28 </age>
  <pet> 1 </pet>
- <expected salary> 1500 $ </expected salary>
- <Favorite movie> The Shawshank Redemption </Favorite movie>
- <Favorite Show> Friends </Favorite Show>
-<Favorite food> Pizza </Favorite food> 
-<Favorite season> Summer </Favorite season> 
-<Country of my dream> New Zealand </Country of my dream> 
+ <expectedSalary> 1500 $ </expectedSalary>
+ <FavoriteMovie> The Shawshank Redemption </FavoriteMovie>
+ <FavoriteShow> Friends </FavoriteShow>
+<FavoriteFood> Pizza </FavoriteFood> 
+<FavoriteSeason> Summer </FavoriteSeason> 
+<Countryofmydream> New Zealand </Countryofmydream> 
 </root>
