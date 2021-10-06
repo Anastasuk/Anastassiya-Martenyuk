@@ -4,4 +4,9 @@
  <age> 28 </age>
  <pet> 1 </pet>
  <expected salary> 1500 $ </expected salary>
+ <Favorite movie> The Shawshank Redemption </Favorite movie>
+ <Favorite Show> Friends </Favorite Show>
+<Favorite food> Pizza </Favorite food> 
+<Favorite season> Summer </Favorite season> 
+<Country of my dream> New Zealand </Country of my dream> 
 </root>
