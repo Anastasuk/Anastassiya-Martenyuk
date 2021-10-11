@@ -1,0 +1,11 @@
+1.ID
+2.Summary
+3.Description
+4.Steps
+5.Severity
+6.Priority
+7.Reproducible
+8.Symptom
+9.Workaround
+10.Attachments
+11.Status
